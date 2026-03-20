@@ -2,7 +2,7 @@
 
 Clone this repository by running:
 ```
-git clone --recurse-submodules git@github.com:aldoclemente/fdapde-starter.git
+git clone --recurse-submodules git@github.com:fdaPDE/fdaPDE-devkit.git
 ```
 A Docker image is provided to compile and run the C++ library [fdaPDE-cpp](https://github.com/fdaPDE/fdaPDE-cpp) or its [core](https://github.com/fdaPDE/fdaPDE-core).
 Additional details are available at [fdapde-docker](https://github.com/aldoclemente/fdaPDE-docker). 
