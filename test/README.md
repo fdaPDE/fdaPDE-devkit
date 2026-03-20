@@ -13,8 +13,8 @@ docker pull aldoclemente/fdapde-docker:latest
 The following script mounts `fdaPDE-devkit` into an interactive Docker container.
 
 ```bash
-# the working directory must be fdapde-starter/test/
-./run_container
+# the working directory must be fdaPDE-devkit/test/
+./run_container.sh
 ```
 
 ### 3. Navigate to the test directory inside the container
