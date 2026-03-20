@@ -1,0 +1,13 @@
+*
+!.gitignore
+!.gitmodules
+!*.sh
+!*.md
+!*.cpp
+!*.h
+!*.R
+!*.mtx
+!*.txt
+!*.csv
+!*/
+*-output/
